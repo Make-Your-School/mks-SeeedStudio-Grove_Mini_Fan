@@ -1,4 +1,3 @@
-
 ---
 title: "Mini-Ventilator"
 date: "2018-10-01T14:25:04.000Z"
