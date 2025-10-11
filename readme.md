@@ -20,7 +20,7 @@ embedded_example_file: "examples/Grove_Mini_Fan_minimal/Grove_Mini_Fan_minimal.i
 
 # Mini-Ventilator
 
-![Mini-Ventilator](./44_mini-ventilator.jpg)
+![Mini-Ventilator](./44_mini-ventilator.png)
 
 ## Beschreibung
 Der Mini-Ventilator vereint einen Gleichstrommotor, einen kleinen Schaumstoff-Ventilator und die entsprechende Steuerung direkt in einem Paket. Die Steuerungseinheit übernimmt alle Funktionen und muss nicht zwingend an einen Mikrocontroller angeschlossen werden. Man kann beispielsweise mit einem an die Steuerung angeschlossenen Potentiometer direkt die Geschwindigkeit des Ventilators bestimmen. Alternativ kann der Ventilator ohne Steuerung über einen anderen Motortreiber an einen Mikrocontroller angeschlossen und bedient werden. Der Ventilator ist aus sehr weichem Material, sodass Verletzungen quasi unmöglich sind, selbst bei voller Drehzahl des Motors.
