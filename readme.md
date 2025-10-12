@@ -3,7 +3,7 @@ title: "Mini-Ventilator"
 date: "2018-10-01T14:25:04.000Z"
 tags: 
   - "output"
-coverImage: "44_mini-ventilator.jpg"
+coverImage: "44_mini-ventilator.png"
 material_number: "44"
 material_type: "output"
 material_short_descr: "Seeed Studio Grove – Mini Fan"
