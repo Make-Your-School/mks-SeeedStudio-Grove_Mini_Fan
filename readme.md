@@ -15,6 +15,9 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Mini_Fan.g
 repo_prefix: "mks"
 repo_part: "Grove_Mini_Fan"
 embedded_example_file: "examples/Grove_Mini_Fan_minimal/Grove_Mini_Fan_minimal.ino"
+title: 'Mini-Ventilator'
+status: 'deprecated'
+difficulty: 'recommend'
 ---
 
 
